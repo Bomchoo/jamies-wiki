@@ -1,2 +1,2 @@
-mkdocs-material==9.5.27
-mkdocs-glightbox
+pip install mkdocs-material==9.5.27
+pip install mkdocs-glightbox
