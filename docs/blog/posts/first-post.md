@@ -8,7 +8,6 @@ date:
 Maintaining a healthy sleep schedule is crucial for overall well-being. Sleep is not just a time for rest; it's a vital process that affects every aspect of our lives, from physical health to mental clarity. In this blog post, we'll explore the benefits of a consistent sleep routine and provide tips to help you achieve better sleep.
 
 <!-- more -->
-
 ## Why a Healthy Sleep Schedule Matters
 
 ### Physical Health
