@@ -7,6 +7,8 @@ date:
 
 Pitbulls are often misunderstood and misrepresented in the media, but the truth is that they can make wonderful pets for the right owners. Here are several reasons why pitbulls make great pets:
 
+<!---more--->
+
 1. **Loyalty and Affection:** Pitbulls are known for their loyalty and affection towards their owners. They form strong bonds with their families and are often referred to as "nanny dogs" for their gentle and loving nature towards children.
 
 2. **Intelligence and Trainability:** Pitbulls are intelligent dogs that can be trained effectively with proper guidance and positive reinforcement. They are eager to please their owners and excel in obedience training and agility activities.
