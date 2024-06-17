@@ -1,3 +1,8 @@
+---
+date:
+  created: 2024-06-16
+---
+
 # Why Pitbulls Make Great Pets
 
 Pitbulls are often misunderstood and misrepresented in the media, but the truth is that they can make wonderful pets for the right owners. Here are several reasons why pitbulls make great pets:
