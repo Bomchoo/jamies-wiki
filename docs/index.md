@@ -1,4 +1,4 @@
-# Welcome to Jamie's Blog
+# Welcome
 
 Welcome to Jamie's Blog, your go-to place for insightful articles, tips, and stories on a variety of topics. Whether you're here to learn something new, get inspired, or just enjoy some good reads, I've got something for almost everyone.
 
