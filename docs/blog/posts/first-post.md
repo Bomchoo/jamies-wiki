@@ -1,9 +1,7 @@
-
 ---
 date:
   created: 2024-06-16
 ---
-
 
 # The Importance of Keeping a Healthy Sleep Schedule
 
