@@ -1,4 +1,10 @@
-site_name: Jamies Wiki
-site_url: https://jamiedocs.hms.cx
+site_name: Jamies Blog
+site_description: Jamies Blog - Powered by Mkdocs
+site_url: https://jamie.hms.cx
+
 theme:
   name: material
+
+plugins:
+  - search
+  - blog
